@@ -34,7 +34,7 @@ namespace DepList
 
 -- Generalized indexed vectors, take 1
 
-namespace IVec
+namespace IVec1
   -- Indexing Scheme
 
   record Scheme (a : Type) (i : Type) where
